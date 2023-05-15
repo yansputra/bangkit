@@ -1,0 +1,2 @@
+curl -u 'yansputra' https://api.github.com/user/repos -d '{"name":"bangkit","private":false}'
+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
